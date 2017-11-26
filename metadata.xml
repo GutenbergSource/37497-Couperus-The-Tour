@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Tour: A Story of Ancient Egypt</dc:title>
+      <dc:creator>Louis Marie Anne Couperus (1863–1923)</dc:creator>
+      <dc:creator>Alexander Teixeira de Mattos (1865–1921)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2011-09-21</dc:publisher>
+      <dc:date>2011-09-21</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+
+ This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+
+ Translation of Antiek toerisme. Roman uit Oud-Egypte, 1911.
+
+ Scans of this book are available from the Internet Archive. (US edition, copy 1, 2, UK edition.) The text is produced from the UK edition, however, the front-cover is taken from the US edition.
+
+
+
+ </dc:rights>
+      <dc:subject>Egypt -- Fiction.</dc:subject>
+      <dc:description>A rich Roman, Publius Lucius Sabinus, travels to Egypt during the reign of emperor Tiberius to find some distraction after the loss of his favourite female slave...</dc:description>
+      <dc:identifier>pg:37497</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
